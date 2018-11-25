@@ -113,8 +113,8 @@ var markers = [
     "LName": "Huang",
     "Title": "Chair",
     "Phone": 9493352722,
-    "lat": 39.95492,
-    "lng": -86.21301
+    "lat": 33.6513036,
+    "lng": -117.8226017
   },
   {
     "Email": "salmanyabbas@gmail.com",
@@ -451,8 +451,8 @@ var markers = [
     "LName": "Liuzzo",
     "Title": "Chair",
     "Phone": 3523188414,
-    "lat": 34.8938078,
-    "lng": -82.3005219
+    "lat": 29.6398956,
+    "lng": -82.27242100000001
   },
   {
     "Email": "asarma@hsdems.org",
@@ -936,19 +936,6 @@ var markers = [
     "lng": -72.63905
   },
   {
-    "Email": "LGEE617@gmail.com",
-    "State": "MA",
-    "City": "Boston",
-    "Type": "School",
-    "Chapter": "Boston Latin School",
-    "FName": "Laura",
-    "LName": "Goodfield",
-    "Title": "Co Chair",
-    "Phone": 6179803395,
-    "lat": 42.3378831,
-    "lng": -71.1011237
-  },
-  {
     "Email": "rdevlin@hsdems.org",
     "State": "MA",
     "City": "Beverly",
@@ -986,19 +973,6 @@ var markers = [
     "Phone": 8576009227,
     "lat": 53.5700213,
     "lng": 9.9957542
-  },
-  {
-    "Email": "michellertom@gmail.com",
-    "State": "MA",
-    "City": "Lexington",
-    "Type": "School",
-    "Chapter": "Lexington High School",
-    "FName": "Michelle",
-    "LName": "Tom",
-    "Title": "Chair",
-    "Phone": "781-475-4330",
-    "lat": 42.44313,
-    "lng": -71.23288
   },
   {
     "Email": "rmukherjee@hsdems.org",
@@ -1202,11 +1176,11 @@ var markers = [
     "Type": "School",
     "Chapter": "Lexington",
     "FName": "Michelle",
-    "LName": "TOm",
+    "LName": "Tom",
     "Title": "Chair",
     "Phone": "N/A",
-    "lat": 38.0405837,
-    "lng": -84.5037164
+    "lat": 42.443798,
+    "lng": -71.233572
   },
   {
     "Email": "emarsh.school@gmail.com",
@@ -1270,8 +1244,8 @@ var markers = [
     "LName": "Carme",
     "Title": "Leader",
     "Phone": 9784073399,
-    "lat": 42.403046,
-    "lng": -73.8886727
+    "lat": 42.391735,
+    "lng": -71.566139
   },
   {
     "Email": "ethansalvesen@gmail.com",
@@ -1478,8 +1452,8 @@ var markers = [
     "LName": "Garrison",
     "Title": "Chair",
     "Phone": 5177599807,
-    "lat": 39.9147228,
-    "lng": -83.99641439999999
+    "lat": 42.01192090000001,
+    "lng": -83.95836709999998
   },
   {
     "Email": "tatumm72@gmail.com",
@@ -1595,8 +1569,8 @@ var markers = [
     "LName": "Crawford",
     "Title": "Chair",
     "Phone": 5735594755,
-    "lat": 39.83877,
-    "lng": -75.70845539999999
+    "lat": 36.24038790000001,
+    "lng": -90.05367289999998
   },
   {
     "Email": "iamjackday@gmail.com",
@@ -1963,19 +1937,6 @@ var markers = [
     "lng": -73.80770729999999
   },
   {
-    "Email": "abebakerbutler@gmail.com",
-    "State": "NY",
-    "City": "Rye Brook",
-    "Type": "Community",
-    "Chapter": "Rye Brook",
-    "FName": "Abe",
-    "LName": "Baker-Butler",
-    "Title": "Chair",
-    "Phone": 9142618571,
-    "lat": 41.0192641,
-    "lng": -73.68346210000001
-  },
-  {
     "Email": "yaakov.weissman@drshalb.org",
     "State": "NY",
     "City": "Woodmere",
@@ -2210,19 +2171,6 @@ var markers = [
     "lng": 0.2095778
   },
   {
-    "Email": "19turnert@gmail.com",
-    "State": "PA",
-    "City": "West Chester",
-    "Type": "School",
-    "Chapter": "Henderson",
-    "FName": "Taylor",
-    "LName": "Turner",
-    "Title": "Chair",
-    "Phone": 6102078004,
-    "lat": -32.169,
-    "lng": 115.781
-  },
-  {
     "Email": "sabrinaschoenborn@gmail.com",
     "State": "PA",
     "City": "West Chester",
@@ -2377,19 +2325,6 @@ var markers = [
     "Phone": "610-613-7035",
     "lat": 53.835927,
     "lng": -1.776978
-  },
-  {
-    "Email": "zachng111@gmail.com",
-    "State": "PA",
-    "City": "Downingtown",
-    "Type": "School",
-    "Chapter": "Downingtown STEM Academy",
-    "FName": "Zach",
-    "LName": "Ng",
-    "Title": "Co-Chair",
-    "Phone": 6106134353,
-    "lat": 40.0090231,
-    "lng": -75.714292
   },
   {
     "Email": "19simarde@shadysideacademy.org",
@@ -2817,8 +2752,8 @@ var markers = [
     "LName": "Eisenman-Shoda",
     "Title": "Chair",
     "Phone": "206-226-9385",
-    "lat": 52.490925,
-    "lng": 13.3602076
+    "lat": 47.611882,
+    "lng": -122.31629700000002
   },
   {
     "Email": "apurupaballamudi@gmail.com",
