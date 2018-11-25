@@ -559,19 +559,6 @@ var markers = [
     "lng": -84.0712997
   },
   {
-    "Email": "elizabetha3840@gmail.com",
-    "State": "GA",
-    "City": "Madison",
-    "Type": "Community",
-    "Chapter": "High School Young Democrats of Morgan Co.",
-    "FName": "Lucia",
-    "LName": "Hodges",
-    "Title": "Chair",
-    "Phone": 7068181846,
-    "lat": 40.2989226,
-    "lng": -103.7289167
-  },
-  {
     "Email": "luciahodges2615@gmail.com",
     "State": "GA",
     "City": "Madison",
