@@ -12,8 +12,8 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var myURL = jQuery( 'script[src$="marker-initialize.js"]' ).attr( 'src' ).replace( 'marker-initialize.js', '' );
 
 var myIcon = L.icon({
-  iconUrl: myURL + '../images/pin48_test.png',
-  iconRetinaUrl: myURL + '../images/pin48_test.png',
+  iconUrl: myURL + '../images/pin48.png',
+  iconRetinaUrl: myURL + '../images/pin48.png',
   iconSize: [29, 24],
   iconAnchor: [9, 21],
   popupAnchor: [0, -14]

@@ -56,13 +56,13 @@ var markers = [
     "State": "AZ",
     "City": "Phoenix",
     "Type": "Community",
-    "Chapter": "BASIS",
+    "Chapter": "BASIS Schools",
     "FName": "Aditi",
     "LName": "Narayanan",
     "Title": "Chair",
     "Phone": 6023209086,
-    "lat": 50.1078195,
-    "lng": 8.6715444
+    "lat": 33.60693810000001,
+    "lng":-112.0337419
   },
   {
     "Email": "kumarharitha.s@gmail.com",
@@ -1595,8 +1595,8 @@ var markers = [
     "LName": "Haynes",
     "Title": "N/A",
     "Phone": 2626643220,
-    "lat": 28.6139391,
-    "lng": 77.2090212
+    "lat": 46.883456,
+    "lng": -102.79240600000003
   },
   {
     "Email": "jacob.arnold@k12.nd.us",
@@ -1725,8 +1725,8 @@ var markers = [
     "LName": "Herzog",
     "Title": "Co-Chair",
     "Phone": 5079511717,
-    "lat": 29.439971,
-    "lng": -98.68462799999999
+    "lat": 43.36905199999999,
+    "lng": -72.33678129999998
   },
   {
     "Email": "btelerski@hsdems.org",
@@ -2143,19 +2143,6 @@ var markers = [
     "Phone": "+1 (610) 730-8565",
     "lat": 40.5345167,
     "lng": -75.5056664
-  },
-  {
-    "Email": "nbrigham@hsdems.org",
-    "State": "PA",
-    "City": "Philadelphia",
-    "Type": "School",
-    "Chapter": "Episcopal Academy",
-    "FName": "Noble",
-    "LName": "Brigham",
-    "Title": "Co-Chair",
-    "Phone": 2158772485,
-    "lat": 40.0063008,
-    "lng": -75.4250952
   },
   {
     "Email": "chrinj20@episcopalacademy.org",
