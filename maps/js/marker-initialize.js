@@ -1664,18 +1664,31 @@ var markers = [
     "lng": -101.668040
   },     
   {
-    "Email": "mckennahinkebein@gmail.com",
+    "Email": "kwhite@hsdems.org",
     "State": "CO",
     "City": "Littleton",
     "Type": "School",
     "Chapter": "Heritage High School",
-    "FName": "McKenna",
-    "LName": "Hinkebein",
-    "Title": "N/A",
-    "Phone": "N/A",
+    "FName": "Kaitlin",
+    "LName": "White",
+    "Title": "Chair",
+    "Phone": "303-817-0950",
     "lat": 39.586908,
     "lng": -105.00365
-  },         
+  },  
+  {
+    "Email": "N/A",
+    "State": "CO",
+    "City": "Denver",
+    "Type": "School",
+    "Chapter": "George Washington High School",
+    "FName": "Abby",
+    "LName": "Foster",
+    "Title": "Chair",
+    "Phone": "303-242-9051",
+    "lat": 39.7054946,
+    "lng": -104.9142354
+  },      
   {
     "Email": "zoe.thomsen17@gmail.com",
     "State": "CO",
