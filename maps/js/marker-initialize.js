@@ -1586,6 +1586,19 @@ var markers = [
     "lng": -90.1564667
   },
   {
+    "Email": "eds12270@gmail.com",
+    "State": "VT",
+    "City": "Rutland Town",
+    "Type": "School",
+    "Chapter": "Rutland High School",
+    "FName": "Ethan",
+    "LName": "Schmitt",
+    "Title": "Chair",
+    "Phone": "(802) 558-0726",
+    "lat": 43.6174987,
+    "lng": -72.95469049999997
+  },    
+  {
     "Email": "ethanhaynes02.eh@gmail.com",
     "State": "ND",
     "City": "Dickinson",
@@ -1621,8 +1634,86 @@ var markers = [
     "LName": "Durfee",
     "Title": "Chair",
     "Phone": 4028130640,
-    "lat": 49.9421198,
-    "lng": 11.571038
+    "lat": 41.2608485,
+    "lng": -95.9436551
+  },
+  {
+    "Email": "emily.lafrance.2442@gmail.com",
+    "State": "MI",
+    "City": "Marysville",
+    "Type": "School",
+    "Chapter": "Marysville High School",
+    "FName": "Emily",
+    "LName": "LaFrance",
+    "Title": "N/A",
+    "Phone": 8103344096,
+    "lat": 42.903910,
+    "lng": -82.479690
+  },   
+  {
+    "Email": "10207699@students.usd497.org",
+    "State": "KS",
+    "City": "Lawrence",
+    "Type": "School",
+    "Chapter": "Lawrence High School",
+    "FName": "Joel",
+    "LName": "Rose",
+    "Title": "Chair",
+    "Phone": "N/A",
+    "lat": 38.9490597,
+    "lng": -95.24276710000004
+  },  
+  {
+    "Email": "demarayc3792@gmail.com",
+    "State": "SD",
+    "City": "Yankton",
+    "Type": "School",
+    "Chapter": "Yankton High School",
+    "FName": "Carter",
+    "LName": "Demaray",
+    "Title": "Chair",
+    "Phone": "N/A",
+    "lat": 44.044580,
+    "lng": -101.668040
+  },     
+  {
+    "Email": "mckennahinkebein@gmail.com",
+    "State": "CO",
+    "City": "Littleton",
+    "Type": "School",
+    "Chapter": "Heritage High School",
+    "FName": "McKenna",
+    "LName": "Hinkebein",
+    "Title": "N/A",
+    "Phone": "N/A",
+    "lat": 39.586908,
+    "lng": -105.00365
+  },         
+  {
+    "Email": "zoe.thomsen17@gmail.com",
+    "State": "CO",
+    "City": "Denver",
+    "Type": "School",
+    "Chapter": "Denver East High School",
+    "FName": "Zoe",
+    "LName": "Thomsen",
+    "Title": "N/A",
+    "Phone": "7203260186",
+    "lat": 39.73839191809685,
+    "lng": -104.96533825528672
+  },            
+  {
+    "Email": "shemartoussaint234@gmail.com",
+    "State": "NE",
+    "City": "Belevue",
+    "Type": "School",
+    "Chapter": "Omaha Bryan High School",
+    "FName": "Shemar",
+    "LName": "Toussaint ",
+    "Title": "Secretary",
+    "Phone": 402-216-9663,
+    "lat": 41.17769879999999,
+    "lng": -95.98517509999999
   },
   {
     "Email": "pherzog@hsdems.org",
