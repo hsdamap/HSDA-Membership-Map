@@ -69,7 +69,7 @@ var markers = [
     "State": "CA",
     "City": "Cupertino",
     "Type": "Community",
-    "Chapter": "Cupertino High School",
+    "Chapter": "Cupertino",
     "FName": "Haritha",
     "LName": "Kumar",
     "Title": "Chair",
@@ -126,8 +126,8 @@ var markers = [
     "LName": "Abbas",
     "Title": "Chair",
     "Phone": 3106225962,
-    "lat": 51.0562579,
-    "lng": 10.8246697
+    "lat": 34.0211224,
+    "lng": -118.39646649999997
   },
   {
     "Email": "dolah.alna@gmail.com",
@@ -377,19 +377,6 @@ var markers = [
     "lng": -80.4515536
   },
   {
-    "Email": "sgfelmet@gmail.com",
-    "State": "FL",
-    "City": "Saint Augustine",
-    "Type": "School",
-    "Chapter": "Nease High School",
-    "FName": "Sydney",
-    "LName": "Felmet",
-    "Title": "Ms",
-    "Phone": 9045994830,
-    "lat": 30.080351,
-    "lng": -81.4476511
-  },
-  {
     "Email": "swolfson@volusia.k12.fl.us",
     "State": "FL",
     "City": "Port Orange",
@@ -425,8 +412,8 @@ var markers = [
     "LName": "Bhakta",
     "Title": "Chair",
     "Phone": 8505854704,
-    "lat": 30.4123448,
-    "lng": -86.64048299999999
+    "lat": 30.41234479999999,
+    "lng": -86.64048300000002
   },
   {
     "Email": "brennaboylan@comcast.net",
@@ -537,7 +524,7 @@ var markers = [
     "State": "GA",
     "City": "Evans",
     "Type": "School",
-    "Chapter": "Greenbrier",
+    "Chapter": "Greenbrier High School",
     "FName": "Logan",
     "LName": "King",
     "Title": "Chair",
@@ -589,13 +576,13 @@ var markers = [
     "State": "GA",
     "City": "Marietta",
     "Type": "School",
-    "Chapter": "Georgia",
+    "Chapter": "Walton High School",
     "FName": "Kevin",
     "LName": "Cho",
     "Title": "Chair",
     "Phone": 6786628359,
-    "lat": 32.1656221,
-    "lng": -82.9000751
+    "lat": 33.95260200000001,
+    "lng": -84.5499327
   },
   {
     "Email": "presberg31@gmail.com",
@@ -841,21 +828,8 @@ var markers = [
     "LName": "Johnson",
     "Title": "Chair Chair",
     "Phone": "504 357 4776",
-    "lat": 29.9244484,
-    "lng": -81.3412531
-  },
-  {
-    "Email": "jgrillo@hsdems.org",
-    "State": "MA",
-    "City": "Plymouth",
-    "Type": "School",
-    "Chapter": "Thayer Academy",
-    "FName": "Jamie",
-    "LName": "Grillo",
-    "Title": "Event Director",
-    "Phone": 7819299346,
-    "lat": 42.20833440000001,
-    "lng": -71.00559419999999
+    "lat": 29.9836838,
+    "lng": -90.0679801
   },
   {
     "Email": "taman@hsdems.org",
@@ -958,8 +932,8 @@ var markers = [
     "LName": "Gould",
     "Title": "Co-Chair",
     "Phone": 8576009227,
-    "lat": 53.5700213,
-    "lng": 9.9957542
+    "lat": 42.41815320000001,
+    "lng": -71.16171880000002
   },
   {
     "Email": "rmukherjee@hsdems.org",
@@ -984,8 +958,8 @@ var markers = [
     "LName": "Stephens",
     "Title": "Chairman",
     "Phone": 7743220501,
-    "lat": 40.1240795,
-    "lng": -75.11951069999999
+    "lat": 42.1048228,
+    "lng": -70.94532179999999
   },
   {
     "Email": "tpimenta21@maldenps.org",
@@ -1052,6 +1026,19 @@ var markers = [
     "lat": 42.3378831,
     "lng": -71.1011237
   },
+  {
+    "Email": "kbrannelly@icloud.com",
+    "State": "MA",
+    "City": "Amesbury",
+    "Type": "School",
+    "Chapter": "Amesbury High School",
+    "FName": "Katelyn",
+    "LName": "Brannelly",
+    "Title": "Chair",
+    "Phone": 19788095810,
+    "lat": 42.85839250000001,
+    "lng": -70.93003759999999
+  },    
   {
     "Email": "carolinewharding@gmail.com",
     "State": "MA",
@@ -1161,7 +1148,7 @@ var markers = [
     "State": "MA",
     "City": "Lexington",
     "Type": "School",
-    "Chapter": "Lexington",
+    "Chapter": "Lexington High School",
     "FName": "Michelle",
     "LName": "Tom",
     "Title": "Chair",
@@ -1209,19 +1196,6 @@ var markers = [
     "lng": -71.02877310000001
   },
   {
-    "Email": "setowjoanna@gmail.com",
-    "State": "MA",
-    "City": "Quincy",
-    "Type": "School",
-    "Chapter": "North Quincy High School",
-    "FName": "Joanna",
-    "LName": "Setow",
-    "Title": "Chair",
-    "Phone": 6178587953,
-    "lat": 42.2775853,
-    "lng": -71.02877310000001
-  },
-  {
     "Email": "benjaminacarme@gmail.com",
     "State": "MA",
     "City": "Hudson",
@@ -1246,19 +1220,6 @@ var markers = [
     "Phone": "774-208-3139",
     "lat": 50.8094526,
     "lng": -0.5409778
-  },
-  {
-    "Email": "abigail.elsbree@gmail.com",
-    "State": "MA",
-    "City": "Boston",
-    "Type": "Community",
-    "Chapter": "Jamaica Plain",
-    "FName": "Asher",
-    "LName": "Kaplan",
-    "Title": "Chair",
-    "Phone": "617 851 6646‬",
-    "lat": 42.3097365,
-    "lng": -71.1151431
   },
   {
     "Email": "matthewwalsh@stmarksschool.org",
@@ -1324,32 +1285,6 @@ var markers = [
     "Phone": "508-649-7689",
     "lat": "42.1741",
     "lng": -71.6022583
-  },
-  {
-    "Email": "mbaick@hsdems.org",
-    "State": "MA",
-    "City": "Biden",
-    "Type": "School",
-    "Chapter": "Biden High School",
-    "FName": "Joe",
-    "LName": "Biden",
-    "Title": "Chair",
-    "Phone": 99999999,
-    "lat": "42.593834",
-    "lng": "-71.58446"
-  },
-  {
-    "Email": "jgrillo@hsdems.org",
-    "State": "MA",
-    "City": "Plymouth",
-    "Type": "School",
-    "Chapter": "Thayer Academy",
-    "FName": "Jamie",
-    "LName": "Grillo",
-    "Title": "Event Director",
-    "Phone": 7819299346,
-    "lat": 42.20833440000001,
-    "lng": -71.00559419999999
   },
   {
     "Email": "marisatorre17@gmail.com",
@@ -1493,19 +1428,6 @@ var markers = [
     "Phone": 3207669483,
     "lat": 45.853195,
     "lng": -95.362144
-  },
-  {
-    "Email": "bphi612@gmail.com",
-    "State": "MN",
-    "City": "Minneapolis",
-    "Type": "School",
-    "Chapter": "South High School",
-    "FName": "B",
-    "LName": "Fei",
-    "Title": "Co-Leader",
-    "Phone": 6519831594,
-    "lat": 52.2036323,
-    "lng": 8.814579
   },
   {
     "Email": "israhirsi9@gmail.com",
@@ -1751,8 +1673,8 @@ var markers = [
     "LName": "Raike",
     "Title": "Chair",
     "Phone": 6037149757,
-    "lat": 51.501821,
-    "lng": 7.493346799999999
+    "lat": 42.9372265,
+    "lng": -71.51953639999999
   },
   {
     "Email": "esbswift@gmail.com",
@@ -1954,7 +1876,7 @@ var markers = [
     "State": "NJ",
     "City": "Point Pleasant Beach",
     "Type": "School",
-    "Chapter": "New Jersey",
+    "Chapter": "Point Pleasant Beach",
     "FName": "Anna",
     "LName": "Kuzmic",
     "Title": "Chair",
@@ -1998,8 +1920,8 @@ var markers = [
     "LName": "Minzer",
     "Title": "Chair",
     "Phone": "516-448-4579",
-    "lat": 48.1489096,
-    "lng": 11.6846292
+    "lat": 40.6431591,
+    "lng": -73.6956864
   },
   {
     "Email": "stuyyoungdems@gmail.com",
@@ -2105,6 +2027,45 @@ var markers = [
     "lat": 40.107389,
     "lng": -83.130949
   },
+  {
+    "Email": "19turnert@gmail.com",
+    "State": "PA",
+    "City": "West Chester",
+    "Type": "School",
+    "Chapter": "Henderson High School",
+    "FName": "Taylor",
+    "LName": "Turner",
+    "Title": " Chair",
+    "Phone": 6102078004,
+    "lat": 39.9678804,
+    "lng": -75.59916650000002
+  }, 
+  {
+    "Email": "ameliacorner10@gmail.com",
+    "State": "PA",
+    "City": "Dubois",
+    "Type": "School",
+    "Chapter": "Dubois Area High School",
+    "FName": "Amelia",
+    "LName": "Corner",
+    "Title": "Chair",
+    "Phone": 8145900564,
+    "lat": 41.08503580000001,
+    "lng": -78.70226780000002
+  },  
+  {
+    "Email": "llundy@hsdems.org",
+    "State": "AL",
+    "City": "Madison",
+    "Type": "School",
+    "Chapter": "Bob Jones High School",
+    "FName": "Love",
+    "LName": "Lundy",
+    "Title": "Chair",
+    "Phone": 12019655683,
+    "lat": 34.7191344,
+    "lng": -86.74215909999998
+  },      
   {
     "Email": "cassiedawnfarmer@gmail.com",
     "State": "OK",
@@ -2245,8 +2206,8 @@ var markers = [
     "LName": "Adury",
     "Title": "Chair",
     "Phone": "610-360-6507",
-    "lat": 51.5852251,
-    "lng": 0.2095778
+    "lat": 40.6293315,
+    "lng": -75.37200559999997
   },
   {
     "Email": "sabrinaschoenborn@gmail.com",
@@ -2260,19 +2221,6 @@ var markers = [
     "Phone": "610-233-8461",
     "lat": 39.9483,
     "lng": -75.53830599999999
-  },
-  {
-    "Email": "20piellia@student.wcasd.net",
-    "State": "PA",
-    "City": "West Chester",
-    "Type": "School",
-    "Chapter": "West Chester East High School",
-    "FName": "Andrew",
-    "LName": "Pielli",
-    "Title": "Mr.",
-    "Phone": 6107551906,
-    "lat": 39.9795577,
-    "lng": -75.5653489
   },
   {
     "Email": "Jacobtmarder@gmail.com",
@@ -2908,8 +2856,8 @@ var markers = [
     "LName": "Fonkem",
     "Title": "Chair",
     "Phone": 9205409484,
-    "lat": 53.4827924,
-    "lng": -1.589868
+    "lat": 44.2619309,
+    "lng": -88.4153847
   },
   {
     "Email": "baraboohsdwi@gmail.com",
