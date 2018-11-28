@@ -35,7 +35,7 @@ function getColor(d) {
 function style(feature) {
     return {
         fillColor: getColor(feature.properties.membership),
-        weight: 2,
+        weight: 1,
         opacity: 1,
         color: 'white',
         dashArray: '3',
@@ -56,7 +56,7 @@ info.onAdd = function (map) {
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
     this._div.innerHTML = '<h4>HSDA State Chapters</h4>' +  (props ?
-        '<b>' + props.name + '</b><br />' + props.membership + ' local chapters'
+        '<b>' + props.name + '</b><br />' + ' Local Chapters: ' + props.membership + '<br / >Chair(s): ' + props.chair + '<br / >Contact: ' + props.contact
         : 'Hover over a state');
 };
 
@@ -86,14 +86,21 @@ function resetHighlight(e) {
     info.update();
 }
 
+function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
 var geojson;
 
 function onEachFeature(feature, layer) {
     layer.on({
         mouseover: highlightFeature,
-        mouseout: resetHighlight
+        mouseout: resetHighlight,
+        click: zoomToFeature
     });
 }
+
+
 
 // Custom legend control
 
