@@ -2802,7 +2802,7 @@ var markers = [
     "Chapter": "Wauwatosa East High School",
     "FName": "Layne",
     "LName": "Donovan",
-    "Title": "Ms.",
+    "Title": "Chair",
     "Phone": 4148829084,
     "lat": 43.0528461,
     "lng": -88.0059453
@@ -2830,8 +2830,8 @@ var markers = [
     "LName": "Brown",
     "Title": "Communications Officer",
     "Phone": 6089218998,
-    "lat": 43.7844397,
-    "lng": -88.7878678
+    "lat": 39.04213025152892,
+    "lng": -105.04701695878907
   },
   {
     "Email": "abbibender@gmail.com",
