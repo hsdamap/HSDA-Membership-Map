@@ -553,7 +553,9 @@
 	line-height: 30px;
 	}
 
-
+.command {
+    font-family: 'Lato';
+}
 .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;

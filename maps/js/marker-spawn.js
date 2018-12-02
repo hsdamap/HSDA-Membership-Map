@@ -1,3 +1,4 @@
+
 // Defines viewing boundary around contiguous US
 
 var maxBounds = L.latLngBounds(
@@ -16,7 +17,7 @@ var map = L.map( 'map', {
 
 // Superimposes openstreetmap over screen
 
-L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
  subdomains: ['a','b','c']
 }).addTo( map );
 
@@ -48,14 +49,14 @@ function style(feature) {
 var info = L.control();
 
 info.onAdd = function (map) {
-    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this._div = L.DomUtil.create('div', 'info command'); // create a div with a class "info"
     this.update();
     return this._div;
 };
 
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
-    this._div.innerHTML = '<h4>HSDA State Chapters</h4>' +  (props ?
+    this._div.innerHTML =  (props ?
         '<b>' + props.name + '</b><br />' + ' Local Chapters: ' + props.membership + '<br / >Chair(s): ' + props.chair + '<br / >Contact: ' + props.contact
         : 'Hover over a state');
 };

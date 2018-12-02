@@ -273,6 +273,19 @@ var markers = [
     "lng": -73.11087839999999
   },
   {
+    "Email": "kburz47@gmail.com",
+    "State": "CT",
+    "City": "Colchester",
+    "Type": "School",
+    "Chapter": "Bacon Academy",
+    "FName": "Kyle",
+    "LName": "Burzycki",
+    "Title": "Chair",
+    "Phone": "5089675776",
+    "lat": 41.5768416,
+    "lng": -72.3022522
+  },    
+  {
     "Email": "cheshireyoungdemocrats@gmail.com",
     "State": "CT",
     "City": "Cheshire",
@@ -350,6 +363,32 @@ var markers = [
     "lat": 28.7029232,
     "lng": -81.2657444
   },
+  {
+    "Email": "teea2002@hotmail.com",
+    "State": "IL",
+    "City": "Hinsdale",
+    "Type": "School",
+    "Chapter": "Hinsdale Central High School",
+    "FName": "Tea",
+    "LName": "Pantelic",
+    "Title": "Chair",
+    "Phone": "6197888626",
+    "lat": 42.17807159999999,
+    "lng": -78.40697319999998
+  },    
+   {
+    "Email": "MB3607@k12.sd.us",
+    "State": "SD",
+    "City": "North Sioux City",
+    "Type": "Community",
+    "Chapter": "North Sioux City",
+    "FName": "Melody",
+    "LName": "Beaulieu",
+    "Title": "Chair",
+    "Phone": "7128987447",
+    "lat": 42.5272168,
+    "lng": -96.48308639999999
+  },       
   {
     "Email": "elvadiaz34@gmail.com",
     "State": "FL",
@@ -774,7 +813,7 @@ var markers = [
     "Chapter": "Avon High School",
     "FName": "Colleen",
     "LName": "Maynard",
-    "Title": "None currently (Officer elections pending)",
+    "Title": "Officer",
     "Phone": 3179198959,
     "lat": 39.7389748,
     "lng": -86.3879795
@@ -883,6 +922,19 @@ var markers = [
     "lat": 42.20833440000001,
     "lng": -71.00559419999999
   },
+   {
+    "Email": "njacobs2560@fpsed.org",
+    "State": "MA",
+    "City": "Framingham",
+    "Type": "School",
+    "Chapter": "Framingham High School",
+    "FName": "Nate",
+    "LName": "Jacobs",
+    "Title": "Chair",
+    "Phone": "5089675776",
+    "lat": 42.316511,
+    "lng": -71.40075000000002
+  },   
   {
     "Email": "natelapointe1444@gmail.com",
     "State": "MA",
@@ -2028,6 +2080,19 @@ var markers = [
     "lng": -83.130949
   },
   {
+    "Email": "dublindemocrats@gmail.com",
+    "State": "CA",
+    "City": "Dublin",
+    "Type": "School",
+    "Chapter": "Dublin High School",
+    "FName": "Arjav",
+    "LName": "Rawal",
+    "Title": "Chair",
+    "Phone": 9258958716,
+    "lat": 37.7203614,
+    "lng": -121.92410510000002
+  },    
+  {
     "Email": "19turnert@gmail.com",
     "State": "PA",
     "City": "West Chester",
@@ -2074,7 +2139,7 @@ var markers = [
     "Chapter": "Mustang High School",
     "FName": "Cassie",
     "LName": "Farmer",
-    "Title": "Programs Director OKhs Dems",
+    "Title": "State Programs Director",
     "Phone": 4052036561,
     "lat": 35.3848802,
     "lng": -97.72739089999999
@@ -2781,6 +2846,19 @@ var markers = [
     "lat": 47.611882,
     "lng": -122.31629700000002
   },
+  {
+    "Email": "LEllis@universityprep.org",
+    "State": "WA",
+    "City": "Seattle",
+    "Type": "School",
+    "Chapter": "University Prep High School",
+    "FName": "Lillian ",
+    "LName": "Ellis",
+    "Title": "Co-Chair",
+    "Phone": "2066609777",
+    "lat": 47.6868097,
+    "lng": -122.300634
+  },    
   {
     "Email": "apurupaballamudi@gmail.com",
     "State": "WI",
