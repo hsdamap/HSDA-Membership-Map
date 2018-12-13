@@ -257,7 +257,7 @@ var markers = [
     "Title": "Chair",
     "Phone": 8609878342,
     "lat": 41.7943418,
-    "lng": -72.75106319999999
+    "lng": -72.75106319999998
   },
   {
     "Email": "chdavid02@gmail.com",
@@ -706,7 +706,7 @@ var markers = [
     "State": "IL",
     "City": "Woodstock",
     "Type": "School",
-    "Chapter": "Woodstock high school (blue streaks)",
+    "Chapter": "Woodstock High School",
     "FName": "Alex",
     "LName": "Wojnicki",
     "Title": "Mr.",
@@ -884,6 +884,33 @@ var markers = [
     "lng": -71.0512097
   },
   {
+    "Email": "Stabczakblaine@gmail.com",
+    "State": "MA",
+    "City": "Marlborough",
+    "Type": "School",
+    "Chapter": "Marlborough High School",
+    "FName": "Henry",
+    "LName": "Stanczak",
+    "Title": "Chair",
+    "Phone": 5086306207,
+    "lat": 42.3630786,
+    "lng": -71.54551149999998
+  },    
+  {
+    "Email": "triple00012@gmail.com",
+    "State": "MA",
+    "City": "Dover",
+    "Type": "School",
+    "Chapter": "Dover-Sherborn Regional High School",
+    "FName": "Levi",
+    "LName": "Trestan",
+    "Title": "Chair",
+    "Phone": 781-296-4714,
+    "lat": 42.2188995,
+    "lng": -71.32287159999998
+  },       
+    
+  {
     "Email": "owen.murphy02186@outlook.com",
     "State": "MA",
     "City": "Milton",
@@ -922,6 +949,32 @@ var markers = [
     "lat": 42.20833440000001,
     "lng": -71.00559419999999
   },
+  {
+    "Email": "mjtempesta@beld.net",
+    "State": "MA",
+    "City": "Braintree",
+    "Type": "School",
+    "Chapter": "Braintree High School",
+    "FName": "Molly ",
+    "LName": "Tempesta",
+    "Title": "Chair",
+    "Phone": "781-708-3938",
+    "lat": 42.2040201,
+    "lng": -71.01987359999998
+  },    
+  {
+    "Email": "faridah.azeez@yahoo.com",
+    "State": "MA",
+    "City": "Canton",
+    "Type": "School",
+    "Chapter": "Blue Hills Regional Technical School",
+    "FName": "Faridah ",
+    "LName": "Azeez",
+    "Title": "Chair",
+    "Phone": "7813085645",
+    "lat": 42.1822851,
+    "lng": -71.10406519999998
+  },        
    {
     "Email": "njacobs2560@fpsed.org",
     "State": "MA",
@@ -1534,6 +1587,19 @@ var markers = [
     "lng": -90.05367289999998
   },
   {
+    "Email": "alexkaliszz@gmail.com",
+    "State": "MO",
+    "City": "Kansas City",
+    "Type": "School",
+    "Chapter": "Park Hill High School",
+    "FName": "Alex",
+    "LName": "Kalisz",
+    "Title": "Chair",
+    "Phone": 8166659903,
+    "lat": 39.2456328,
+    "lng": -94.66967669999997
+  },    
+  {
     "Email": "iamjackday@gmail.com",
     "State": "MS",
     "City": "Madison",
@@ -1788,11 +1854,24 @@ var markers = [
     "Chapter": "Somerset County High school Dems",
     "FName": "Varun",
     "LName": "Seetamraju",
-    "Title": "Do-Chair",
+    "Title": "Co-Chair",
     "Phone": 9084324221,
     "lat": 40.5292099,
     "lng": -74.64004320000001
   },
+  {
+    "Email": "ethansaldanha1234@gmail.com",
+    "State": "NJ",
+    "City": "Leonia",
+    "Type": "Community",
+    "Chapter": "Bergen County",
+    "FName": "Ethan",
+    "LName": "Saldanha",
+    "Title": "Chair",
+    "Phone": 2014960348,
+    "lat": 40.9262762,
+    "lng": -74.07700999999997
+  },    
   {
     "Email": "ranenmiao@gmail.com",
     "State": "NJ",
@@ -2145,6 +2224,32 @@ var markers = [
     "lng": -97.72739089999999
   },
   {
+    "Email": "sukhdipkaur1976@gmail.com",
+    "State": "OK",
+    "City": "Edmond",
+    "Type": "School",
+    "Chapter": "Edmond Santa Fe High School",
+    "FName": "Harman",
+    "LName": "Kaur",
+    "Title": "Chair",
+    "Phone": 4057779559,
+    "lat": 35.6401779,
+    "lng": -97.5088169
+  },   
+  {
+    "Email": "gbrown2019@macduffie.org",
+    "State": "MA",
+    "City": "Granby",
+    "Type": "School",
+    "Chapter": "The MacDuffie School",
+    "FName": "Georgie",
+    "LName": "Brown",
+    "Title": "Co-chair",
+    "Phone": 413-658-8274,
+    "lat": 42.2688903,
+    "lng": -72.47408139999999
+  },       
+  {
     "Email": "dsood@hsdems.org",
     "State": "PA",
     "City": "Lansdale",
@@ -2157,6 +2262,19 @@ var markers = [
     "lat": 40.2347666,
     "lng": -75.315446
   },
+  {
+    "Email": "theo.contoudis@gmail.com",
+    "State": "PA",
+    "City": "Jenkintown",
+    "Type": "School",
+    "Chapter": "Jenkintown High School",
+    "FName": "Theo",
+    "LName": "Contoudis",
+    "Title": "Chair",
+    "Phone": "2674677995",
+    "lat": 40.0956534,
+    "lng": -75.13334759999998
+  },    
   {
     "Email": "aidan@aidanlevinson.com",
     "State": "PA",
@@ -2902,14 +3020,14 @@ var markers = [
     "Email": "maddiganbrown@gmail.com",
     "State": "WI",
     "City": "Milton",
-    "Type": "School",
-    "Chapter": "Wisconsin",
+    "Type": "Community",
+    "Chapter": "Milton",
     "FName": "Maddigan",
     "LName": "Brown",
     "Title": "Communications Officer",
     "Phone": 6089218998,
-    "lat": 39.04213025152892,
-    "lng": -105.04701695878907
+    "lat": 42.7755645,
+    "lng": -88.94399899999996
   },
   {
     "Email": "abbibender@gmail.com",

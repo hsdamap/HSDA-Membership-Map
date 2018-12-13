@@ -1,4 +1,3 @@
-
 // Defines viewing boundary around contiguous US
 
 var maxBounds = L.latLngBounds(
@@ -33,6 +32,7 @@ function getColor(d) {
            d > 0   ? 'rgba(199, 223, 247,0.7)' :
                       'rgba(265,265,265,0.1)';
 }
+
 function style(feature) {
     return {
         fillColor: getColor(feature.properties.membership),
@@ -67,7 +67,7 @@ info.addTo(map);
 
 function highlightFeature(e) {
     var layer = e.target;
-
+    
     layer.setStyle({
         weight: 5,
         color: '#666',
