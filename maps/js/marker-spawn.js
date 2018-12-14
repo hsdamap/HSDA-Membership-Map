@@ -57,8 +57,8 @@ info.onAdd = function (map) {
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
     this._div.innerHTML =  (props ?
-        '<b>' + props.name + '</b><br />' + ' Local Chapters: ' + props.membership + '<br / >Chair(s): ' + props.chair + '<br / >Contact: ' + props.contact
-        : 'Hover over a state');
+        '<b><span class="state-header">' + " " + props.name + '</span></b><br /><div class="sub-header"><span class="local-chapters">' + ' Local Chapters:</span>' + " " + props.membership + '<br / ><span class="chair">Chair(s): </span>' + props.chair + '<br / ><span class="contact">Contact: </span>' + " " + props.contact
+        : 'Hover over a state</div>');
 };
 
 info.addTo(map);
@@ -151,7 +151,7 @@ var markerClusters = L.markerClusterGroup();
 
 for ( var i = 0; i < markers.length; ++i )
 {
-  var popup = '<b>Chapter: </b>' + markers[i].Chapter +
+  var popup = '<b><span class="chapter-name">' + markers[i].Chapter + '</span></b>' +
               '<br/><b>Location: </b>' + markers[i].City + ", " + markers[i].State +
               '<br/><b>Type:</b> ' + markers[i].Type +
               '<br/><b>Point of Contact:</b> ' + markers[i].FName + " " + markers[i].LName +

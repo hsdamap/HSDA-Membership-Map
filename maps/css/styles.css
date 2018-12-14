@@ -554,8 +554,27 @@
 	}
 
 .command {
-    font-family: 'Lato';
+    font-family: 'Montserrat' !important;
 }
+.state-header, .chapter-name {
+    font-size:13pt;
+    color: #17365D;
+    padding-bottom:110px;
+    font-family: "Montserrat" !important;
+}
+.local-chapters, .chair, .contact {
+   font-family: "Montserrat" !important;
+
+    font-style: normal;
+    font-size: 11px;
+    letter-spacing: .10em;
+    line-height: 2em;
+    text-transform: uppercase;
+}
+.sub-header {
+    margin-top:5px;
+}
+
 .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
