@@ -10,7 +10,7 @@ var maxBounds = L.latLngBounds(
 var map = L.map( 'map', {
   center: [40.0, -100.0],
   minZoom: 4,
-  zoom: 4,
+  zoom: 3,
   'maxBounds': maxBounds
 }).fitBounds(maxBounds);
 
