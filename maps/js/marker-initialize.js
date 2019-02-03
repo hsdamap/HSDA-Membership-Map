@@ -39,6 +39,32 @@ var markers = [
     "lng": -112.0591719
   },
   {
+    "Email": "contact.leilanis@gmail.com",
+    "State": "AZ",
+    "City": "Tucson",
+    "Type": "School",
+    "Chapter": "Mountain View High School",
+    "FName": "Leilani",
+    "LName": "Serbousek",
+    "Title": "Chair",
+    "Phone": 520-780-7103,
+    "lat": 32.355818,
+    "lng": -110.97015
+  },    
+  {
+    "Email": "abbyglazer12802@gmail.com",
+    "State": "AZ",
+    "City": "Flagstaff",
+    "Type": "Community",
+    "Chapter": "Flagstaff",
+    "FName": "Abby",
+    "LName": "Glazer",
+    "Title": "Member",
+    "Phone": 6023263019,
+    "lat": 35.1995,
+    "lng": -111.65100000000001
+  },    
+  {
     "Email": "ruribecampos@hsdems.org",
     "State": "AZ",
     "City": "Mesa",
@@ -51,6 +77,19 @@ var markers = [
     "lat": 33.4353912,
     "lng": -111.6738045
   },
+  {
+    "Email": "vrmejia5h@gmail.com",
+    "State": "AZ",
+    "City": "Phoenix",
+    "Type": "School",
+    "Chapter": "Horizon Honors high School",
+    "FName": "Tori",
+    "LName": "Mejia",
+    "Title": "Chair",
+    "Phone": "4806696030",
+    "lat": 34.5003,
+    "lng": -111.50098
+  },    
   {
     "Email": "aditisnarayanan@gmail.com",
     "State": "AZ",
@@ -77,6 +116,45 @@ var markers = [
     "lat": 37.3229978,
     "lng": -122.0321823
   },
+  {
+    "Email": "mingda.he@gmail.com",
+    "State": "CA",
+    "City": "San Diego",
+    "Type": "School",
+    "Chapter": "Westview High School",
+    "FName": "Mingda",
+    "LName": "He",
+    "Title": "Chair",
+    "Phone": 8582205899,
+    "lat": 32.9660984,
+    "lng": -117.1500689
+  },    
+  {
+    "Email": "sheilaa48992@gmail.com",
+    "State": "CA",
+    "City": "Newport Beach",
+    "Type": "Community",
+    "Chapter": "Newport Beach",
+    "FName": "Sheila",
+    "LName": "Azad",
+    "Title": "Chair",
+    "Phone": 9495202520,
+    "lat": 33.617,
+    "lng": -117.92899999999997
+  },    
+  {
+    "Email": "irinyshim@gmail.com",
+    "State": "CA",
+    "City": "Temecula",
+    "Type": "Community",
+    "Chapter": "Temecula",
+    "FName": "Irin",
+    "LName": "Shim",
+    "Title": "Chair",
+    "Phone": 9515790088,
+    "lat": 33.43074405998602,
+    "lng": -117.11273707229645
+  },    
   {
     "Email": "banalenzo@gmail.com",
     "State": "CA",
@@ -259,6 +337,19 @@ var markers = [
     "lat": 41.7943418,
     "lng": -72.75106319999998
   },
+  {
+    "Email": "Anya_Sastry@loomis.org",
+    "State": "CT",
+    "City": "Windsor",
+    "Type": "School",
+    "Chapter": "The Loomis Chaffee School",
+    "FName": "Anya",
+    "LName": "Sastry",
+    "Title": "Chair",
+    "Phone": 8475022067,
+    "lat": 41.8395666,
+    "lng": -72.6401412
+  },    
   {
     "Email": "chdavid02@gmail.com",
     "State": "CT",
@@ -832,6 +923,32 @@ var markers = [
     "lng": 9.9957542
   },
   {
+    "Email": "ambrosia.nw@gmail.com",
+    "State": "KS",
+    "City": "Lawrence",
+    "Type": "School",
+    "Chapter": "Free State High School",
+    "FName": "Ambrosia",
+    "LName": "Naramore-Winfrey",
+    "Title": "Chair",
+    "Phone": "785-312-0052",
+    "lat": 38.9753962,
+    "lng": -95.3037331
+  },    
+  {
+    "Email": "morganorozco@seaburyacademy.org",
+    "State": "KS",
+    "City": "Lawrence",
+    "Type": "School",
+    "Chapter": "Bishop Seabury Academy",
+    "FName": "Morgan",
+    "LName": "Orozco",
+    "Title": "Chair",
+    "Phone": "7853121790",
+    "lat": 38.94356,
+    "lng": -95.29275
+  },    
+  {
     "Email": "claireharmon1801@gmail.com",
     "State": "KY",
     "City": "Benton",
@@ -883,6 +1000,19 @@ var markers = [
     "lat": 42.4964549,
     "lng": -71.0512097
   },
+   {
+    "Email": "taman@hsdems.org",
+    "State": "MA",
+    "City": "Wakefield",
+    "Type": "School",
+    "Chapter": "Wakefield Memorial High School",
+    "FName": "Talat",
+    "LName": "Aman",
+    "Title": "Co-chair",
+    "Phone": 5189443172,
+    "lat": 42.4964549,
+    "lng": -71.0512097
+  },   
   {
     "Email": "Stabczakblaine@gmail.com",
     "State": "MA",
@@ -895,7 +1025,33 @@ var markers = [
     "Phone": 5086306207,
     "lat": 42.3630786,
     "lng": -71.54551149999998
-  },    
+  }, 
+  {
+    "Email": "dillonmccarthyofficial@gmail.com",
+    "State": "MA",
+    "City": "Eastham",
+    "Type": "School",
+    "Chapter": "Nauset Regional High School",
+    "FName": "Dillon",
+    "LName": "McCarthy",
+    "Title": "Chair",
+    "Phone": 5087768044,
+    "lat": 41.8612963,
+    "lng": -69.968817
+  },   
+  {
+    "Email": "eclifford19@monomoy.edu",
+    "State": "MA",
+    "City": "Harwich",
+    "Type": "School",
+    "Chapter": "Monomoy Regional High School",
+    "FName": "Edward",
+    "LName": "Clifford",
+    "Title": "Chair",
+    "Phone": 5083677506,
+    "lat": 41.6862,
+    "lng": -70.07589999999999
+  },     
   {
     "Email": "triple00012@gmail.com",
     "State": "MA",
@@ -1405,6 +1561,45 @@ var markers = [
     "lng": -76.92888549999999
   },
   {
+    "Email": "jollyrop1@gmail.com",
+    "State": "MD",
+    "City": "Rockville",
+    "Type": "School",
+    "Chapter": "Richard Montgomery High School",
+    "FName": "Jolly",
+    "LName": "Rop",
+    "Title": "Co-chair",
+    "Phone": 2404377753,
+    "lat": 39.0792991,
+    "lng": -77.1467904
+  },    
+  {
+    "Email": "laurajulia.tapiero@gmail.com",
+    "State": "MD",
+    "City": "Chevy Chase",
+    "Type": "Community",
+    "Chapter": "Bethesda Chevy Chase ",
+    "FName": "Laura Julia",
+    "LName": "Fleischmann ",
+    "Title": "Chair",
+    "Phone": 240-383-6839,
+    "lat": 38.9868886,
+    "lng": -77.0901265
+  },  
+  {
+    "Email": "nayela-campbell@pgcps.org",
+    "State": "MD",
+    "City": "Bowie",
+    "Type": "School",
+    "Chapter": "Bowie High School",
+    "FName": "Nayela",
+    "LName": "Campbell",
+    "Title": "Chair",
+    "Phone": 808-354-4249,
+    "lat": 38.9714997,
+    "lng": -76.7427465
+  },      
+  {
     "Email": "vac232@gmail.com",
     "State": "MD",
     "City": "Ellicott city",
@@ -1587,6 +1782,19 @@ var markers = [
     "lng": -90.05367289999998
   },
   {
+    "Email": "hannah122801@msn.com",
+    "State": "MO",
+    "City": "St. Louis",
+    "Type": "Community",
+    "Chapter": "St. Louis Community",
+    "FName": "Hannah",
+    "LName": "Shine",
+    "Title": "Chair",
+    "Phone": 6366985721,
+    "lat": 38.6273,
+    "lng": -90.1979
+  },    
+  {
     "Email": "alexkaliszz@gmail.com",
     "State": "MO",
     "City": "Kansas City",
@@ -1768,6 +1976,19 @@ var markers = [
     "lat": 43.36905199999999,
     "lng": -72.33678129999998
   },
+  {
+    "Email": "lily@thecoadys.com",
+    "State": "NH",
+    "City": "Hollis-Brookline",
+    "Type": "School",
+    "Chapter": "Hollis-Brookline High School",
+    "FName": "Lily",
+    "LName": "Coady",
+    "Title": "Co-Chair",
+    "Phone": 6039210342,
+    "lat": 42.7336276,
+    "lng": -71.5945674
+  },    
   {
     "Email": "btelerski@hsdems.org",
     "State": "NH",
@@ -2042,6 +2263,19 @@ var markers = [
     "lng": -73.79292140000001
   },
   {
+    "Email": "whiteplainshsdems@gmail.com",
+    "State": "NY",
+    "City": "White Plains",
+    "Type": "School",
+    "Chapter": "White Plains High School",
+    "FName": "Sam",
+    "LName": "Scafidi",
+    "Title": "Officer",
+    "Phone": "sam@scafidi.net",
+    "lat": 41.0205668,
+    "lng": -73.735487
+  },    
+  {
     "Email": "jackminzer@gmail.com",
     "State": "NY",
     "City": "Hewlett",
@@ -2142,6 +2376,19 @@ var markers = [
     "LName": "Banerji",
     "Title": "Chair",
     "Phone": 4403398472,
+    "lat": 41.3765368,
+    "lng": -81.4407575
+  },    
+  {
+    "Email": "knb1632@gmail.com",
+    "State": "OH",
+    "City": "Solon",
+    "Type": "School",
+    "Chapter": "Solon High School",
+    "FName": "Krittika",
+    "LName": "Banerji",
+    "Title": "Chair",
+    "Phone": 4403398472,
     "lat": 41.37766999999999,
     "lng": -81.4410388
   },
@@ -2170,7 +2417,33 @@ var markers = [
     "Phone": 9258958716,
     "lat": 37.7203614,
     "lng": -121.92410510000002
+  },  
+  {
+    "Email": "dehsprogressiveclub@gmail.com",
+    "State": "PA",
+    "City": "West Chester",
+    "Type": "School",
+    "Chapter": "Downington East High School",
+    "FName": "Camryn",
+    "LName": "Krumbhaar",
+    "Title": " Chair",
+    "Phone": 6107011492,
+    "lat": 40.043522,
+    "lng": -75.660866
   },    
+  {
+    "Email": "rohines@epix.net",
+    "State": "PA",
+    "City": "Center Valley",
+    "Type": "School",
+    "Chapter": "Southern Lehigh High School",
+    "FName": "Cameron",
+    "LName": "Hines",
+    "Title": "Chair",
+    "Phone": 484-387-8471,
+    "lat": 40.5338684,
+    "lng": -75.3983712
+  },        
   {
     "Email": "19turnert@gmail.com",
     "State": "PA",
@@ -2223,6 +2496,32 @@ var markers = [
     "lat": 35.3848802,
     "lng": -97.72739089999999
   },
+   {
+    "Email": "mcdonaldmaggie2@gmail.com",
+    "State": "OK",
+    "City": "Stillwater",
+    "Type": "School",
+    "Chapter": "Stillwater High School",
+    "FName": "Margaret",
+    "LName": "McDonald",
+    "Title": "Chair",
+    "Phone": 4052693058,
+    "lat": 36.1344061,
+    "lng": -97.0627191
+  },   
+  {
+    "Email": "sarammoFore637@gmail.com",
+    "State": "OK",
+    "City": "Norman",
+    "Type": "School",
+    "Chapter": "Norman High School",
+    "FName": "Sara",
+    "LName": "Moore",
+    "Title": "Co-President",
+    "Phone": 4059859000,
+    "lat": 35.2202939,
+    "lng": -97.4567746
+  },    
   {
     "Email": "sukhdipkaur1976@gmail.com",
     "State": "OK",
@@ -2248,7 +2547,111 @@ var markers = [
     "Phone": 413-658-8274,
     "lat": 42.2688903,
     "lng": -72.47408139999999
-  },       
+  },  
+  {
+    "Email": "njohnson@sacredheartma.com",
+    "State": "MA",
+    "City": "Kingston",
+    "Type": "School",
+    "Chapter": "Sacred Heart High School",
+    "FName": "Nicole",
+    "LName": "Johnson",
+    "Title": "Co-chair",
+    "Phone": 774-404-1997,
+    "lat": 41.9473034,
+    "lng": -70.7371494
+  },      
+  {
+    "Email": "alexismarsh3@aol.com",
+    "State": "NC",
+    "City": "Holly Springs",
+    "Type": "Community",
+    "Chapter": "Wake County",
+    "FName": "Alexis",
+    "LName": "Marsh",
+    "Title": "Chair",
+    "Phone": 9199064478,
+    "lat": 35.7979355,
+    "lng": -78.6118311
+  },    
+  {
+    "Email": "8957165541@pinelakeprep.org",
+    "State": "NC",
+    "City": "Moorseville",
+    "Type": "Community",
+    "Chapter": "Iredell County",
+    "FName": "Kendyl",
+    "LName": "Brown",
+    "Title": "Chair",
+    "Phone": 7045893999,
+    "lat": 35.5849,
+    "lng": -80.81010000000003
+  },        
+  {
+    "Email": "lauren.wetmore@my.graystoneday.org",
+    "State": "NC",
+    "City": "Misenheimer",
+    "Type": "Community",
+    "Chapter": "Gray Stone Day School",
+    "FName": "Lauren",
+    "LName": "Wetmore",
+    "Title": "Vice-Chair",
+    "Phone": 7047983068,
+    "lat": 35.483525998030146,
+    "lng": -80.27529063260158
+  },        
+  {
+    "Email": "jrubin0308@gmail.com",
+    "State": "AZ",
+    "City": "Scottsdale",
+    "Type": "School",
+    "Chapter": "Desert Mountain High School",
+    "FName": "Jackson",
+    "LName": "Rubin",
+    "Title": "Chair",
+    "Phone": 4802063520,
+    "lat": 33.5886342,
+    "lng": -111.8109527
+  },
+  {
+    "Email": "jilliankahn123@gmail.com",
+    "State": "AZ",
+    "City": "Chandler",
+    "Type": "School",
+    "Chapter": "Hamilton High School",
+    "FName": "Jillian",
+    "LName": "Kahn",
+    "Title": "Chair",
+    "Phone": 480-735-4981,
+    "lat": 33.2526723,
+    "lng": -111.8435748
+  },    
+  {
+    "Email": "jsusant31@gmail.com",
+    "State": "AZ",
+    "City": "Gilbert",
+    "Type": "Community",
+    "Chapter": "Gilbert High School",
+    "FName": "Janet",
+    "LName": "Thampy",
+    "Title": "Chair",
+    "Phone": 480-738-2750,
+    "lat": 33.34726,
+    "lng": -111.766501
+  },    
+  {
+    "Email": "claireloveslaw@gmail.com",
+    "State": "AZ",
+    "City": "Goodyear",
+    "Type": "Community",
+    "Chapter": "West Phoenix Valley",
+    "FName": "Claire",
+    "LName": "Bates",
+    "Title": "Chair",
+    "Phone": 6023322587,
+    "lat": 33.4485866,
+    "lng": -112.0773456
+  },    
   {
     "Email": "dsood@hsdems.org",
     "State": "PA",
@@ -2262,6 +2665,19 @@ var markers = [
     "lat": 40.2347666,
     "lng": -75.315446
   },
+{
+    "Email": "asuarez4704@gmail.com",
+    "State": "PA",
+    "City": "Bethleham",
+    "Type": "School",
+    "Chapter": "Freedom High School",
+    "FName": "Alfredo",
+    "LName": "Suarez",
+    "Title": "Chair",
+    "Phone": "4845544704",
+    "lat": 40.6637,
+    "lng": -75.33609999999999
+  },    
   {
     "Email": "theo.contoudis@gmail.com",
     "State": "PA",
@@ -2314,6 +2730,32 @@ var markers = [
     "lat": 40.17609059999999,
     "lng": -75.3982413
   },
+  {
+    "Email": "colechristian9@gmail.com",
+    "State": "PA",
+    "City": "Erie",
+    "Type": "School",
+    "Chapter": "McDowell High School",
+    "FName": "Christian",
+    "LName": "Cole",
+    "Title": "Founder",
+    "Phone": "8143928244",
+    "lat": 42.0731126,
+    "lng": -80.1492269
+  },    
+  {
+    "Email": "anthonyjs2022@gmail.com",
+    "State": "PA",
+    "City": "Harrison Township",
+    "Type": "School",
+    "Chapter": "Highlands High Scool",
+    "FName": "Anthony",
+    "LName": "Smith",
+    "Title": "President",
+    "Phone": "7246817355",
+    "lat": 40.6179011,
+    "lng": -79.7260917
+  },        
   {
     "Email": "dylanward@comcast.net",
     "State": "PA",
@@ -2392,6 +2834,19 @@ var markers = [
     "lat": 40.6293315,
     "lng": -75.37200559999997
   },
+  {
+    "Email": "megyoder8@gmail.com",
+    "State": "PA",
+    "City": "Lancaster",
+    "Type": "School",
+    "Chapter": "Hempfield High School",
+    "FName": "Meg",
+    "LName": "Yoder",
+    "Title": "Chair",
+    "Phone": "7173271328",
+    "lat": 40.0912633,
+    "lng": -76.4140232
+  },    
   {
     "Email": "sabrinaschoenborn@gmail.com",
     "State": "PA",
@@ -2783,6 +3238,32 @@ var markers = [
     "lng": -95.46901609999999
   },
   {
+    "Email": "em204494@students.mcallenisd.net",
+    "State": "TX",
+    "City": "McAllen",
+    "Type": "School",
+    "Chapter": "Bellaire High School",
+    "FName": "Mariam",
+    "LName": "Rangel",
+    "Title": "Chair",
+    "Phone": 13462043540,
+    "lat": 26.20341,
+    "lng": -98.23001
+  },    
+  {
+    "Email": "zoyaxxhasan@outlook.com",
+    "State": "TX",
+    "City": "Plano",
+    "Type": "School",
+    "Chapter": "Plano East Senior High School",
+    "FName": "Zoya",
+    "LName": "Hasan",
+    "Title": "Chair",
+    "Phone": 4697444989,
+    "lat": 33.0397603,
+    "lng": -96.6452846
+  },    
+  {
     "Email": "andrew2000m@icloud.com",
     "State": "TX",
     "City": "Leander",
@@ -2887,6 +3368,20 @@ var markers = [
     "lng": -111.71087
   },
   {
+    "Email": "william.tongsiri@gmail.com",
+    "State": "OR",
+    "City": "Molalla",
+    "Type": "School",
+    "Chapter": "Molalla High School",
+    "FName": "William",
+    "LName": "Tongsiri",
+    "Title": "Chair",
+    "Phone": 9712169365,
+    "lat": 45.146452705238495,
+    "lng": -122.57606148719788
+  },    
+    
+  {
     "Email": "emacnabb16@gmail.com",
     "State": "VA",
     "City": "Charlottesville",
@@ -2899,6 +3394,19 @@ var markers = [
     "lat": 38.05240089999999,
     "lng": -78.4761783
   },
+  {
+    "Email": "lillianrojas17@gmail.com",
+    "State": "VA",
+    "City": "Nokesville",
+    "Type": "School",
+    "Chapter": "Patriot High school",
+    "FName": "Lillian",
+    "LName": "Rojas",
+    "Title": "Chair",
+    "Phone": 5406569365,
+    "lat": 38.69873,
+    "lng": -77.57971
+  },   
   {
     "Email": "claire.karlin@gmail.com",
     "State": "VA",
@@ -2983,13 +3491,26 @@ var markers = [
     "City": "Middleton",
     "Type": "School",
     "Chapter": "Middleton High School",
-    "FName": " Rupa",
+    "FName": "Rupa",
     "LName": "Ballamudi",
     "Title": "Chair",
     "Phone": 6083819103,
     "lat": 53.5477921,
     "lng": -2.1803929
   },
+   {
+    "Email": "19jacobk@elmbrookstudents.org",
+    "State": "WI",
+    "City": "Brookfield",
+    "Type": "School",
+    "Chapter": "Brookfield Central High SChool",
+    "FName": "Kevin",
+    "LName": "Jacobson",
+    "Title": "Undetermined",
+    "Phone": 2626225006,
+    "lat": 43.0605671,
+    "lng": -88.1064787
+  },   
   {
     "Email": "ldonovan@hsdems.org",
     "State": "WI",
@@ -3094,6 +3615,58 @@ var markers = [
     "lat": 38.4377203,
     "lng": -82.0057994
   },
+  {
+    "Email": "auk2sports@gmail.com",
+    "State": "WV",
+    "City": "Charleston",
+    "Type": "School",
+    "Chapter": "George Washington High School",
+    "FName": "Azeem",
+    "LName": "Khan",
+    "Title": "Chair",
+    "Phone": 3045498281,
+    "lat": 38.3336005,
+    "lng": -81.6565229
+  },   
+   {
+    "Email": "orosshaynes@gmail.com",
+    "State": "AR",
+    "City": "White Hall",
+    "Type": "School",
+    "Chapter": "White Hall High School",
+    "FName": "Owen",
+    "LName": "Haynes",
+    "Title": "Chair",
+    "Phone": 8703299994,
+    "lat": 34.2838848,
+    "lng": -92.1071607
+  },  
+   {
+    "Email": "klim@hsdems.org",
+    "State": "NV",
+    "City": "Las Vegas",
+    "Type": "School",
+    "Chapter": "Las Vegas Art Academy ",
+    "FName": "Lili",
+    "LName": "Abel",
+    "Title": "Chair",
+    "Phone": 9144734803,
+    "lat": 36.1509,
+    "lng": -115.13599999999997
+  },    
+   {
+    "Email": "klim@hsdems.org",
+    "State": "NV",
+    "City": "Las Vegas",
+    "Type": "School",
+    "Chapter": "Clark High School",
+    "FName": "Sofia",
+    "LName": "Adams",
+    "Title": "Chair",
+    "Phone": 7025218912,
+    "lat": 36.1355151,
+    "lng": -115.1971518
+  },       
   {
     "Email": "olsonsophia8@gmail.com",
     "State": "NE",

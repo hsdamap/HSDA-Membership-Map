@@ -23,8 +23,8 @@ L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Defines state outlines
 
 function getColor(d) {
-    return d > 30 ? 'rgba(7, 65, 121,0.9)' :
-           d > 20  ? 'rgba(7, 65, 121,0.9)' :
+    return d > 30 ? 'rgba(3, 32, 58, 0.9)' :
+           d > 20  ? 'rgba(5, 45, 82, 0.9)' :
            d > 15  ? 'rgba(10, 85, 158,0.9)' :
            d > 10  ? 'rgba(10, 85, 158,0.9)' :
            d > 5   ? 'rgba(67, 132, 194,0.9)' :
