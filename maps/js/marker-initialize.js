@@ -117,6 +117,19 @@ var markers = [
     "lng": -122.0321823
   },
   {
+    "Email": "osvaldo0403@gmail.com",
+    "State": "CA",
+    "City": "Inglewood",
+    "Type": "Community",
+    "Chapter": "Animo Leadership Charter High School ",
+    "FName": "Osvaldo",
+    "LName": "Barba",
+    "Title": "Chair",
+    "Phone": 4246251581,
+    "lat": 33.934761,
+    "lng": -118.3476496
+  },    
+  {
     "Email": "mingda.he@gmail.com",
     "State": "CA",
     "City": "San Diego",
@@ -286,11 +299,37 @@ var markers = [
     "lng": -105.075374
   },
   {
+    "Email": "brynflanny@gmail.com",
+    "State": "CO",
+    "City": "Greenwood Village",
+    "Type": "School",
+    "Chapter": "Cherry Creek High School",
+    "FName": "Bryn",
+    "LName": "Flanigan",
+    "Title": "Co-Chair",
+    "Phone": 303-250-8997,
+    "lat": 39.6303721,
+    "lng": -104.8793351
+  },    
+  {
+    "Email": "cortiz@hsdems.org",
+    "State": "CO",
+    "City": "Pueblo",
+    "Type": "Community",
+    "Chapter": "Pueblo County",
+    "FName": "Colton",
+    "LName": "Ortiz",
+    "Title": "Founder/ Chair",
+    "Phone": 7195696364,
+    "lat": 38.2544,
+    "lng": -104.60899999999998
+  },    
+  {
     "Email": "emcfarlin@hsdems.org",
     "State": "CO",
     "City": "Colorado Springs",
     "Type": "Community",
-    "Chapter": "Colorado Springs",
+    "Chapter": "El Paso County",
     "FName": "Ethan",
     "LName": "McFarlin",
     "Title": "Chair",
@@ -454,6 +493,19 @@ var markers = [
     "lat": 28.7029232,
     "lng": -81.2657444
   },
+  {
+    "Email": "ejanec02@gmail.com",
+    "State": "FL",
+    "City": "St. Petersburg",
+    "Type": "School",
+    "Chapter": "St. Petersburg High School ",
+    "FName": "Emma",
+    "LName": "Conover",
+    "Title": "Chair",
+    "Phone": "7274340567",
+    "lat": 27.7800331,
+    "lng": -82.6682661
+  },    
   {
     "Email": "teea2002@hotmail.com",
     "State": "IL",
@@ -1000,6 +1052,58 @@ var markers = [
     "lat": 42.4964549,
     "lng": -71.0512097
   },
+  {
+    "Email": "royjzachary@gmail.com",
+    "State": "MA",
+    "City": "Worcester",
+    "Type": "School",
+    "Chapter": "South High Community School",
+    "FName": "Zachary",
+    "LName": "Roy",
+    "Title": "Chair",
+    "Phone": 5087697756,
+    "lat": 42.2447066,
+    "lng": -71.8637578
+  },  
+  {
+    "Email": "philip.gessen@gmail.com",
+    "State": "MA",
+    "City": "Falmouth",
+    "Type": "School",
+    "Chapter": "Falmouth High School",
+    "FName": "Philip",
+    "LName": "Gessen",
+    "Title": "Chair",
+    "Phone": 7742280890,
+    "lat": 41.5907484,
+    "lng": -70.6088296
+  },   
+  {
+    "Email": "madihart0101@gmail.com",
+    "State": "MA",
+    "City": "Chicopee",
+    "Type": "Community",
+    "Chapter": "Chicopee",
+    "FName": "Madi",
+    "LName": "Hartling",
+    "Title": "Chair",
+    "Phone": 4133889512,
+    "lat": 42.1487043,
+    "lng": -72.6078672
+  },      
+  {
+    "Email": "20richardte@abschools.org",
+    "State": "MA",
+    "City": "Acton ",
+    "Type": "School",
+    "Chapter": "Acton-Boxborough Regional High School",
+    "FName": "Emily",
+    "LName": "Richardt",
+    "Title": "Chair",
+    "Phone": 9782013420,
+    "lat": 42.4798301,
+    "lng": -71.4583125
+  },         
    {
     "Email": "taman@hsdems.org",
     "State": "MA",
@@ -2081,6 +2185,32 @@ var markers = [
     "lng": -74.64004320000001
   },
   {
+    "Email": "jackmk@blair.edu",
+    "State": "NJ",
+    "City": "Blairstown",
+    "Type": "School",
+    "Chapter": "Blair Academy",
+    "FName": "Kelsey",
+    "LName": "Jackman",
+    "Title": "Co-Chair",
+    "Phone": 9166006066,
+    "lat": 40.986001557776326,
+    "lng": -74.96378101887069
+  },    
+  {
+    "Email": "r.tati21@hhsd.k12.nj.us",
+    "State": "NJ",
+    "City": "Haddon Heights",
+    "Type": "School",
+    "Chapter": "Haddon Heights High School",
+    "FName": "Ritwik",
+    "LName": "Tati",
+    "Title": "Co-Chair",
+    "Phone": 650-798-7118,
+    "lat": 39.88362690763293,
+    "lng": -75.04988193511963
+  },        
+  {
     "Email": "ethansaldanha1234@gmail.com",
     "State": "NJ",
     "City": "Leonia",
@@ -2263,6 +2393,19 @@ var markers = [
     "lng": -73.79292140000001
   },
   {
+    "Email": "syracusehsdems@gmail.com",
+    "State": "NY",
+    "City": "Syracuse",
+    "Type": "Community",
+    "Chapter": "Syracuse",
+    "FName": "Martine ",
+    "LName": "Dosa",
+    "Title": "Co-Chair",
+    "Phone": "3154150772",
+    "lat": 43.0481,
+    "lng": -76.1474
+  },    
+  {
     "Email": "whiteplainshsdems@gmail.com",
     "State": "NY",
     "City": "White Plains",
@@ -2419,6 +2562,32 @@ var markers = [
     "lng": -121.92410510000002
   },  
   {
+    "Email": "aia.tfios@gmail.com",
+    "State": "CA",
+    "City": "Los Angeles",
+    "Type": "School",
+    "Chapter": "YULA High Schools",
+    "FName": "Sarah",
+    "LName": "Nachimson",
+    "Title": "Chair",
+    "Phone": 310-709-4569,
+    "lat": 34.05223,
+    "lng": -118.24368
+  },      
+  {
+    "Email": "ghsdems@gmail.com",
+    "State": "CA",
+    "City": "Livermore",
+    "Type": "School",
+    "Chapter": "Granada High School",
+    "FName": "Hayden",
+    "LName": "Sidun",
+    "Title": "Chair",
+    "Phone": 9255834355,
+    "lat": 37.67389062396815,
+    "lng": -121.78943517817305
+  },      
+  {
     "Email": "dehsprogressiveclub@gmail.com",
     "State": "PA",
     "City": "West Chester",
@@ -2431,6 +2600,32 @@ var markers = [
     "lat": 40.043522,
     "lng": -75.660866
   },    
+  {
+    "Email": "emma.lipkind101@gmail.com",
+    "State": "PA",
+    "City": "Holland",
+    "Type": "School",
+    "Chapter": "Council Rock High School South",
+    "FName": "Emma",
+    "LName": "Lipkind",
+    "Title": "Chair",
+    "Phone": 2674019651,
+    "lat": 40.2132549,
+    "lng": -74.9759868
+  },        
+   {
+    "Email": "morganalexamiller@gmail.com",
+    "State": "PA",
+    "City": "King of Prussia",
+    "Type": "School",
+    "Chapter": "Upper Merion Area High School",
+    "FName": "Morgan",
+    "LName": "Miller",
+    "Title": "Chair",
+    "Phone": 610-299-7547,
+    "lat": 40.08927,
+    "lng": -75.39602
+  },       
   {
     "Email": "rohines@epix.net",
     "State": "PA",
@@ -3238,6 +3433,19 @@ var markers = [
     "lng": -95.46901609999999
   },
   {
+    "Email": "mariamcues@gmail.com",
+    "State": "TX",
+    "City": "McAllen",
+    "Type": "School",
+    "Chapter": "IB Lamar High School",
+    "FName": "Mariam",
+    "LName": "Rangel",
+    "Title": "Chair",
+    "Phone": 9566487233,
+    "lat": 26.201484981760988,
+    "lng": -98.22845365669355
+  },    
+  {
     "Email": "em204494@students.mcallenisd.net",
     "State": "TX",
     "City": "McAllen",
@@ -3380,7 +3588,19 @@ var markers = [
     "lat": 45.146452705238495,
     "lng": -122.57606148719788
   },    
-    
+  {
+    "Email": "balischock3@gmail.com",
+    "State": "OR",
+    "City": "Bend",
+    "Type": "School",
+    "Chapter": "Summit High School",
+    "FName": "Bali",
+    "LName": "schock",
+    "Title": "Chair",
+    "Phone": 5416783906,
+    "lat": 44.0563232,
+    "lng": -121.3609706
+  },        
   {
     "Email": "emacnabb16@gmail.com",
     "State": "VA",
@@ -3615,6 +3835,19 @@ var markers = [
     "lat": 38.4377203,
     "lng": -82.0057994
   },
+  {
+    "Email": "mhowar@k12.wv.us",
+    "State": "WV",
+    "City": "Shenandoah Junction",
+    "Type": "School",
+    "Chapter": "Jefferson High School",
+    "FName": "Olivia",
+    "LName": "Rucker",
+    "Title": "Chair",
+    "Phone": 304-620-4859,
+    "lat": 39.3535923,
+    "lng": -77.834719
+  },    
   {
     "Email": "auk2sports@gmail.com",
     "State": "WV",
