@@ -702,6 +702,45 @@ var markers = [
     "lng": -84.74363
   },
   {
+    "Email": "dnieljng@gmail.com",
+    "State": "GA",
+    "City": "Suwanee",
+    "Type": "School",
+    "Chapter": "Lambert High School",
+    "FName": "Daniel",
+    "LName": "Jang",
+    "Title": "Chair",
+    "Phone": 7709063877,
+    "lat": 34.0515,
+    "lng": -84.07130000000001
+  },   
+  {
+    "Email": "tquanh71@gmail.com",
+    "State": "GA",
+    "City": "Atlanta",
+    "Type": "School",
+    "Chapter": "Forest Park High School",
+    "FName": "Quang",
+    "LName": "Thang",
+    "Title": "Chair",
+    "Phone": 4043680117,
+    "lat": 33.62170053144323,
+    "lng": -84.36914021112602
+  },       
+  {
+    "Email": "nathansapp@aol.com",
+    "State": "GA",
+    "City": "Sandy Springs",
+    "Type": "School",
+    "Chapter": "The Weber School",
+    "FName": "Nathan",
+    "LName": "Posner",
+    "Title": "Chair",
+    "Phone": 404436430,
+    "lat": 33.9243,
+    "lng": -84.37850000000003
+  },    
+  {
     "Email": "0323lk@gmail.com",
     "State": "GA",
     "City": "Evans",
@@ -870,6 +909,19 @@ var markers = [
     "lat": 39.9705991,
     "lng": -85.91720839999999
   },
+  {
+    "Email": "chloefulk@danville.k12.in.us",
+    "State": "IN",
+    "City": "Danville",
+    "Type": "School",
+    "Chapter": "Danville Community High School",
+    "FName": "Chloe",
+    "LName": "Fulk",
+    "Title": "Chair",
+    "Phone": 317-478-5944,
+    "lat": 39.7571012,
+    "lng": -86.540118
+  },    
   {
     "Email": "jerretta07@gmail.com",
     "State": "IN",
@@ -1925,6 +1977,19 @@ var markers = [
     "lng": -90.1564667
   },
   {
+    "Email": "jacobbandock@gmail.com",
+    "State": "MS",
+    "City": "Columbus",
+    "Type": "Community Chapter",
+    "Chapter": "Lowndes County",
+    "FName": "Jacob",
+    "LName": "Bandock",
+    "Title": "Chair",
+    "Phone": "662-242-8405",
+    "lat": 33.4957,
+    "lng": -88.4273
+  },    
+  {
     "Email": "eds12270@gmail.com",
     "State": "VT",
     "City": "Rutland Town",
@@ -1950,6 +2015,19 @@ var markers = [
     "lat": 46.883456,
     "lng": -102.79240600000003
   },
+  {
+    "Email": "grossbauersarah@gmail.com",
+    "State": "ND",
+    "City": "Thompson",
+    "Type": "School",
+    "Chapter": "Thompson High School",
+    "FName": "Sarah",
+    "LName": "Grossbauer",
+    "Title": "N/A",
+    "Phone": 701-317-3589,
+    "lat": 47.7735899,
+    "lng": -97.109805
+  },    
   {
     "Email": "jacob.arnold@k12.nd.us",
     "State": "ND",
@@ -2393,6 +2471,32 @@ var markers = [
     "lng": -73.79292140000001
   },
   {
+    "Email": "braedon.french@stu.wolfe.kyschools.us",
+    "State": "KY",
+    "City": "Campton",
+    "Type": "Community",
+    "Chapter": "Wolfe County",
+    "FName": "Braedon",
+    "LName": "French",
+    "Title": "Chair",
+    "Phone": "6063626211",
+    "lat": 37.7342526,
+    "lng": -83.547409
+  },    
+  {
+    "Email": "lasarsojac01@qufsd.org",
+    "State": "NY",
+    "City": "Queensbury",
+    "Type": "Community",
+    "Chapter": "Queensbury",
+    "FName": "Jackson",
+    "LName": "LaSarso",
+    "Title": "Chair",
+    "Phone": "5184808146",
+    "lat": 43.3619,
+    "lng": -73.66520000000003
+  },    
+  {
     "Email": "syracusehsdems@gmail.com",
     "State": "NY",
     "City": "Syracuse",
@@ -2744,6 +2848,19 @@ var markers = [
     "lng": -72.47408139999999
   },  
   {
+    "Email": "ads4boston@gmail.com",
+    "State": "MA",
+    "City": "Dorchester",
+    "Type": "Community",
+    "Chapter": "Suffolk County",
+    "FName": "Ashawn",
+    "LName": "Dabney-Small",
+    "Title": "Chair",
+    "Phone": "N/A",
+    "lat": 42.3544455,
+    "lng": -70.9788771
+  },      
+  {
     "Email": "njohnson@sacredheartma.com",
     "State": "MA",
     "City": "Kingston",
@@ -2769,6 +2886,19 @@ var markers = [
     "lat": 35.7979355,
     "lng": -78.6118311
   },    
+  {
+    "Email": "cayleighb296@gmail.com",
+    "State": "NC",
+    "City": "Charlotte",
+    "Type": "Community",
+    "Chapter": "Providence Senior High School",
+    "FName": "Cayleigh",
+    "LName": "Brown",
+    "Title": "Chair",
+    "Phone": 7043228488,
+    "lat": 35.111298,
+    "lng": -80.7640596
+  },        
   {
     "Email": "8957165541@pinelakeprep.org",
     "State": "NC",
@@ -3718,6 +3848,19 @@ var markers = [
     "lat": 53.5477921,
     "lng": -2.1803929
   },
+  {
+    "Email": "madelinerminer@gmail.com",
+    "State": "WI",
+    "City": "Ashwaubenon",
+    "Type": "Community",
+    "Chapter": "Brown County",
+    "FName": "Madeline",
+    "LName": "Miner",
+    "Title": "Chair",
+    "Phone": 9205620996,
+    "lat": 44.4753,
+    "lng": -88.0607
+  },    
    {
     "Email": "19jacobk@elmbrookstudents.org",
     "State": "WI",
