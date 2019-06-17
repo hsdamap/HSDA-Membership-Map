@@ -494,6 +494,19 @@ var markers = [
     "lng": -81.2657444
   },
   {
+    "Email": "lois3702@gmail.com",
+    "State": "FL",
+    "City": "Largo",
+    "Type": "School",
+    "Chapter": "Pinellas Park High School",
+    "FName": "Jose",
+    "LName": "Lois",
+    "Title": "Chair",
+    "Phone": "7277935430",
+    "lat": 27.8814132,
+    "lng": -82.7233326
+  },    
+  {
     "Email": "ejanec02@gmail.com",
     "State": "FL",
     "City": "St. Petersburg",
@@ -689,6 +702,19 @@ var markers = [
     "lng": -81.3798095
   },
   {
+    "Email": "alyssajanelle85@icloud.com",
+    "State": "LA",
+    "City": "Baton Rouge",
+    "Type": "School",
+    "Chapter": "Lee Magnet High School",
+    "FName": "Alyssa",
+    "LName": "Robins",
+    "Title": "Chair",
+    "Phone": 225-279-3259,
+    "lat": 30.45075,
+    "lng": -91.15455
+  },    
+  {
     "Email": "dchsdemocrats@gmail.com",
     "State": "GA",
     "City": "Douglasville",
@@ -701,6 +727,19 @@ var markers = [
     "lat": 33.74375,
     "lng": -84.74363
   },
+  {
+    "Email": "kateiceskate@gmail.com",
+    "State": "GA",
+    "City": "Cumming",
+    "Type": "School",
+    "Chapter": "South Forsyth High School",
+    "FName": "Katy",
+    "LName": "Gates",
+    "Title": "Chair",
+    "Phone": 6789430093,
+    "lat": 34.2073196,
+    "lng": -84.1401926
+  },    
   {
     "Email": "dnieljng@gmail.com",
     "State": "GA",
@@ -1834,6 +1873,45 @@ var markers = [
     "lng": -83.95836709999998
   },
   {
+    "Email": "june.lee.935@gmail.com",
+    "State": "MI",
+    "City": "Birmingham",
+    "Type": "School",
+    "Chapter": "Seaholm High School",
+    "FName": "June",
+    "LName": "Lee",
+    "Title": "Chair",
+    "Phone": 248-245-8093,
+    "lat": 42.5395659,
+    "lng": -83.2430332
+  },    
+  {
+    "Email": "alliw2000@gmail.com",
+    "State": "MI",
+    "City": "Petoskey",
+    "Type": "School",
+    "Chapter": "Petoskey High School",
+    "FName": "Allison",
+    "LName": "Williams",
+    "Title": "Chair",
+    "Phone": 2313306402,
+    "lat": 45.3698277,
+    "lng": -84.936827
+  },   
+  {
+    "Email": "catonarreguin@hotmail.con",
+    "State": "MI",
+    "City": "Canton",
+    "Type": "School",
+    "Chapter": "Canton High School",
+    "FName": "Caton",
+    "LName": "Arreguin",
+    "Title": "Chair",
+    "Phone": 7343091752,
+    "lat": 42.3469634,
+    "lng": -83.4925042
+  },       
+  {
     "Email": "tatumm72@gmail.com",
     "State": "MN",
     "City": "Woodbury",
@@ -2015,6 +2093,19 @@ var markers = [
     "lat": 46.883456,
     "lng": -102.79240600000003
   },
+  {
+    "Email": "hannajohnson11@gmail.com",
+    "State": "ND",
+    "City": "Colfax",
+    "Type": "School",
+    "Chapter": "Richland High School",
+    "FName": "Hanna",
+    "LName": "Johnson",
+    "Title": "Chair",
+    "Phone": 701-630-1886,
+    "lat": 46.471319370142524,
+    "lng": -96.87444280226669
+  },    
   {
     "Email": "grossbauersarah@gmail.com",
     "State": "ND",
@@ -2263,6 +2354,19 @@ var markers = [
     "lng": -74.64004320000001
   },
   {
+    "Email": "anisahd2000@gmail.com",
+    "State": "NJ",
+    "City": "Jefferson",
+    "Type": "Community",
+    "Chapter": "Morris County",
+    "FName": "Anisah",
+    "LName": "Daniel",
+    "Title": "Co-Chair",
+    "Phone": 9732149241,
+    "lat": 40.863568840891524,
+    "lng": -74.56067171842113
+  },
+  {
     "Email": "jackmk@blair.edu",
     "State": "NJ",
     "City": "Blairstown",
@@ -2458,6 +2562,32 @@ var markers = [
     "lng": -104.4723301
   },
   {
+    "Email": "masonlcannon@gmail.com",
+    "State": "NM",
+    "City": "Albuquerque",
+    "Type": "School",
+    "Chapter": "Albuquerque High School",
+    "FName": "Mason",
+    "LName": "Cannon",
+    "Title": "Chair",
+    "Phone": 505-977-6776,
+    "lat": 35.0962977,
+    "lng": -106.6358135
+  },    
+  {
+    "Email": "samuelnevarez@icloud.com",
+    "State": "NM",
+    "City": "Albuquerque",
+    "Type": "Community",
+    "Chapter": "Bernalillo County",
+    "FName": "Samuel",
+    "LName": "Nevarez",
+    "Title": "Chair",
+    "Phone": 5054164650,
+    "lat": 35.0349239,
+    "lng": -106.6870693
+  },    
+  {
     "Email": "jgreenspan02@gmail.com",
     "State": "NY",
     "City": "Scarsdale",
@@ -2471,6 +2601,19 @@ var markers = [
     "lng": -73.79292140000001
   },
   {
+    "Email": "crowellc@albanyacademies.org",
+    "State": "NY",
+    "City": "Albany",
+    "Type": "School",
+    "Chapter": "Albany Academies",
+    "FName": "Caroline",
+    "LName": "Crowell",
+    "Title": "Chair",
+    "Phone": "5183123306",
+    "lat": 42.6511674,
+    "lng": -73.754968
+  },    
+  {
     "Email": "braedon.french@stu.wolfe.kyschools.us",
     "State": "KY",
     "City": "Campton",
@@ -2483,6 +2626,19 @@ var markers = [
     "lat": 37.7342526,
     "lng": -83.547409
   },    
+  {
+    "Email": "mollyspicer01@gmail.com",
+    "State": "KY",
+    "City": "Fort Thomas",
+    "Type": "Community",
+    "Chapter": "Campbell County",
+    "FName": "Molly",
+    "LName": "Spicer",
+    "Title": "Chair",
+    "Phone": "859-412-0252",
+    "lat": 39.0786242,
+    "lng": -84.4483432
+  },        
   {
     "Email": "lasarsojac01@qufsd.org",
     "State": "NY",
@@ -2665,6 +2821,32 @@ var markers = [
     "lat": 37.7203614,
     "lng": -121.92410510000002
   },  
+  {
+    "Email": "daphnejcrother@gmail.com",
+    "State": "CA",
+    "City": "Mission Viejo",
+    "Type": "School",
+    "Chapter": "Capistrano Valley High School",
+    "FName": "Daphne",
+    "LName": "Crother",
+    "Title": "Chair",
+    "Phone": 7146166129,
+    "lat": 33.5422403,
+    "lng": -117.669712
+  },      
+  {
+    "Email": "adorable4000@gmail.com",
+    "State": "CA",
+    "City": "Fontana",
+    "Type": "School",
+    "Chapter": "Etiwanda High School",
+    "FName": "Joshua",
+    "LName": "Lechuga",
+    "Title": "Chair",
+    "Phone": 9092325660,
+    "lat": 34.0822337,
+    "lng": -117.4525485
+  },      
   {
     "Email": "aia.tfios@gmail.com",
     "State": "CA",
@@ -3550,6 +3732,19 @@ var markers = [
     "lng": -86.78175
   },
   {
+    "Email": "Jennifer_eldridge@hotmail.com",
+    "State": "TN",
+    "City": "Livingston",
+    "Type": "Community",
+    "Chapter": "Overton County",
+    "FName": "Macey",
+    "LName": "Alfred",
+    "Title": "Chair",
+    "Phone": 9312140424,
+    "lat": 36.3396292,
+    "lng": -85.286641
+  },    
+  {
     "Email": "akontoyiannis@hsdems.org",
     "State": "TX",
     "City": "Bellaire",
@@ -3744,6 +3939,19 @@ var markers = [
     "lat": 38.05240089999999,
     "lng": -78.4761783
   },
+  {
+    "Email": "jjoyceny02@gmail.com",
+    "State": "VA",
+    "City": "Fredericksburg",
+    "Type": "School",
+    "Chapter": "Fredericksburg City High school",
+    "FName": "Joyce",
+    "LName": "Jiang",
+    "Title": "Chair",
+    "Phone": 6469517808,
+    "lat": 38.297049,
+    "lng": -77.45797
+  },    
   {
     "Email": "lillianrojas17@gmail.com",
     "State": "VA",
