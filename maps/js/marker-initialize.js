@@ -299,6 +299,19 @@ var markers = [
     "lng": -105.075374
   },
   {
+    "Email": "lbelle15@live.com",
+    "State": "CO",
+    "City": "Littleton",
+    "Type": "Community",
+    "Chapter": "Jefferson County",
+    "FName": "Lauren",
+    "LName": "Hill",
+    "Title": "Chair",
+    "Phone": 720-378-3343,
+    "lat": 39.6133,
+    "lng": -105.017
+  },    
+  {
     "Email": "brynflanny@gmail.com",
     "State": "CO",
     "City": "Greenwood Village",
@@ -310,7 +323,7 @@ var markers = [
     "Phone": 303-250-8997,
     "lat": 39.6303721,
     "lng": -104.8793351
-  },    
+  },     
   {
     "Email": "cortiz@hsdems.org",
     "State": "CO",
