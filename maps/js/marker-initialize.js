@@ -1849,20 +1849,6 @@ markers = [
     "lng": "-75.1270823999999"
   },
   {
-    "Email": "d3s3r3t@gmail.com",
-    "State": "UT",
-    "City": "Orem",
-    "Type": "High School",
-    "Chapter": "Mountain View",
-    "Full Address": "Mountain View Orem UT ",
-    "FName": "Deseret",
-    "LName": "Crane",
-    "Title": "President",
-    "Phone": "8016696013",
-    "lat": "40.2957358",
-    "lng": "-111.7109747"
-  },
-  {
     "Email": "agung.putra2001@gmail.com",
     "State": "PA",
     "City": "Philadelphia",
@@ -6777,16 +6763,16 @@ markers = [
   {
     "Email": "leahkpittman@gmail.com",
     "State": "UT",
-    "City": "Salt Lake City ",
+    "City": "Sandy",
     "Type": "Community",
-    "Chapter": "Salt Lake City ",
-    "Full Address": "Salt Lake City  Salt Lake City  UT ",
+    "Chapter": "Sandy",
+    "Full Address": "Sandy UT ",
     "FName": "Leah",
     "LName": "Pittman",
     "Title": "Chairwoman",
     "Phone": "N/A",
-    "lat": "40.7607793",
-    "lng": "-111.8910474"
+    "lat": "40.569710",
+    "lng": "-111.897278"
   },
   {
     "Email": "asharma-21@peddie.org",
